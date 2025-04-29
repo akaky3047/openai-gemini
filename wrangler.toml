@@ -1,4 +1,4 @@
-name = "gemini-akaky30"
+name = "gemini2-akaky30"
 main = "src/worker.mjs"
 compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
